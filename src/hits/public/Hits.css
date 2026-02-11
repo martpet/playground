@@ -1,0 +1,10 @@
+.hits-page {
+  color-scheme: dark;
+  background: darkslateblue;
+}
+
+.hits-list {
+  font-family: monospace;
+  list-style: none;
+  padding-inline-start: 0;
+}
